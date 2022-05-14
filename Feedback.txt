@@ -1,0 +1,10 @@
+What I got from 'stakedholders':
+
+- shorter presentation
+- functions to define results and outcomes
+- fewer graphs -> only the meaningful ones
+
+
+What I realized I could modify:
+- replace certain graphs (dot plots)
+- have a shorter presentation

@@ -1,0 +1,10 @@
+pandas
+seaborn
+numpy
+matplotlib
+dataframe_image
+pickle
+sklearn
+xgboost
+lightgbm
+xlwt

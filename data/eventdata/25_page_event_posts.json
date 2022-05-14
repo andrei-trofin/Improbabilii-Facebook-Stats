@@ -1,0 +1,38 @@
+[
+    {
+        "id":1.581916452e+31,
+        "created_time":1539361369000,
+        "is_popular":0.0,
+        "message":"Sala este preg\u0103tit\u0103, v\u0103 a\u0219tept\u0103m la ora 20:00 s\u0103 facem un show de improviza\u021bie, c\u0103ci f\u0103r\u0103 voi nu se poate! Loca\u021bia: Cantina Ha\u0219deu, sala C4, la etaj\u2b06\ufe0f\ud83c\udfad",
+        "status_type":"added_photos",
+        "shares":3.0,
+        "likes":17
+    },
+    {
+        "id":1.581916452e+31,
+        "created_time":1539331858000,
+        "is_popular":0.0,
+        "message":"Ast\u0103zi e ziua spectacolului, ne vedem \u00een sala C4 a Cantinei Ha\u0219deu, de la ora 20:00! \u0102sta este singurul lucru cert, restul este improvizat! (pentru mai multe detalii despre cum se ajunge la loca\u021bie, exist\u0103 \u00een eveniment o postare demn\u0103 de un film de aventur\u0103, cu hart\u0103, poze \u0219i indicii) V\u0103 a\u0219tept\u0103m cu drag!",
+        "status_type":"mobile_status_update",
+        "shares":null,
+        "likes":10
+    },
+    {
+        "id":1.581916452e+31,
+        "created_time":1538740820000,
+        "is_popular":0.0,
+        "message":"\u00centr-o s\u0103pt\u0103m\u00e2n\u0103, #Improbabilii vin \u00een fa\u021ba voastr\u0103 cu un show de improviza\u021bie, \u00een cadrul S\u0103pt\u0103m\u00e2nii Bobocului :) Loca\u021bia este par\u021bial improbabil\u0103, \u00eens\u0103 revenim cu detalii exacte \ud83d\udd1c",
+        "status_type":"mobile_status_update",
+        "shares":null,
+        "likes":9
+    },
+    {
+        "id":1.581916452e+31,
+        "created_time":1538247198000,
+        "is_popular":0.0,
+        "message":"Fie c\u0103 e\u0219ti student sau nu, ne vedem vineri, 12 octombrie la un show integral \u00een cadrul S\u0103pt\u0103m\u00e2nii Bobocului. \n\nVom anun\u0163a loca\u0163ia exact\u0103 cu c\u00e2teva zile \u00eenainte de eveniment. \n\n#Improbabilii",
+        "status_type":"mobile_status_update",
+        "shares":null,
+        "likes":9
+    }
+]
