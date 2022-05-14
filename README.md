@@ -33,7 +33,7 @@ However, here I want to give a more granular look into what this project meant.
 <details open>
 <summary>Show/Hide</summary>
 
-1. [File/Folder descriptions](#1-file//folder-descriptions)
+1. [File/Folder descriptions](#1-filefolder-descriptions)
 2. [Data retrieval](#2-data-retrieval)
 3. [Exploratory data analysis](#3-exploratory-data-analysis)
 4. [Visuals and presentation](#4-visuals-and-presentation)
@@ -118,7 +118,7 @@ However, Facebook also has it's own client that lets you quickly test your
 requests and also suggests useful endpoints/parameters.
 
 <div style="text-align:center">
-    <img src="images/facebook-client.png" width=400/>
+    <img src="images/facebook-client.png" height=400/>
 </div>
 <br>
 <br>
@@ -171,14 +171,14 @@ for a good presentation. Again, this required a brainstorming process.
 
 <h5 align="center">Average engagement per days of promoting</h5>
   <p align="center">
-  <img src="images/AverageEngagementPerDaysOfPromoting.png" height=300/>
+  <img src="images/AverageEngagementPerDaysOfPromoting.png" height=400/>
   </p>
 <br>
 <br>
 
 <h5 align="center">Page posts likes per hour range</h5>
   <p align="center">
-  <img src="images/PagePostsLikesPerHourRange.png" height=300/>
+  <img src="images/PagePostsLikesPerHourRange.png" height=600/>
   </p>
 <br>
 <br>
