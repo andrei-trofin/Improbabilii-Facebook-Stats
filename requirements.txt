@@ -1,9 +1,0 @@
-pandas
-seaborn
-numpy
-matplotlib
-dataframe_image
-sklearn
-xgboost
-lightgbm
-xlwt
