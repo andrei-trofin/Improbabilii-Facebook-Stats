@@ -128,7 +128,7 @@ be an admin for that page and create an app from your Facebook developer account
 and give it access to these endpoints. It was a little bit complicated at first,
 but there were many tutorials on the web to help with that.
 
-All the data was saved in its separate json file in the data folder.
+All the data were saved in their separate json files in the data folder.
 
 </details>
 
@@ -143,7 +143,7 @@ to find interesting insights about our improv group's social media presence.
 I wanted to see a little bit of history (as much as we can get from a Facebook
 page), but also how we interacted with our followers online.
 
-I have come up with several ideas I wanted to explore, among which were the
+I have come up with several statistics I wanted to explore, among which were the
 following:
 
 * Number of improv shows
@@ -167,7 +167,7 @@ in order to achieve the desired statistics.
 
 There is no good project without a succinct presentation. And this was what I
 aimed for in this part. I wanted to create all the visuals I could think of
-for a good presentation. Again, this required a brainstorming process.
+for a good presentation. This required a brainstorming process.
 
 <h5 align="center">Average engagement per days of promoting</h5>
   <p align="center">
@@ -183,9 +183,9 @@ for a good presentation. Again, this required a brainstorming process.
 <br>
 <br>
 
-Coming up with what graphs I can draw from my data and how to arrange it in such
-a way that I can draw them was particularly interesting, as it led the way
-towards the next step: what kind of features can I use to make a prediction?
+The process of coming up with ideas for useful graphs and their arrangement was
+fascinating. It also led the way towards the next step: what kind of features
+can I use to make a prediction?
 
 </details>
 
@@ -195,12 +195,12 @@ towards the next step: what kind of features can I use to make a prediction?
 <details open>
 <summary>Show/Hide</summary>
 
-What I realized from the beginning, but was most evident here was that I do not
+What I realized from the beginning, but was most evident here, was that I do not
 have a big amount of data to work with. This meant that I could not use many
-features to train models. Therefore, I needed to pick my fighters carefully and
+features to train models. Therefore, I needed to pick my fights carefully, and
 think them through.
 
-In the EDA phase I could see what my data sets are comprised of and could begin
+In the EDA phase I could see what my data sets are comprised of, and could begin
 to define what can be useful for predictions. In the end I came up with 4
 important features:
 
@@ -275,8 +275,8 @@ def get_all_best_models_from_grid_search(all_models, all_parameters_grids, X_tra
 
 All this search ended up finding that a GaussianProcessRegressor on the data set
 containing just the 4 main features presented at the
-[feature engineering step](5-feature-engineering). I shall use this model to
-make our predictions.
+[feature engineering step](#5-feature-engineering). I used this model to
+make the predictions.
 
 </details>
 
@@ -286,7 +286,7 @@ make our predictions.
 <details open>
 <summary>Show/Hide</summary>
 
-The app is hosted on heroku at the following [link](https.herokuapp.com)
+The app is hosted on heroku at the following [link](https://improbabilii-facebook-stats.herokuapp.com/)
 If you want to run the server locally, the following steps are necessary:
 
 1. Download this project, or at least the venv folder and the models folder.
@@ -349,10 +349,10 @@ had an overview of all available models in scikit-learn.
 
 Last but not least, I understood why so many articles/comments state that "you
 do not have a bad model, you just don't have enough data" or something along
-the lines. I hope that, perhaps over a few years, I will have enough data about
+these lines. I hope that, perhaps over a few years, I will have enough data about
 our online presence so that I could build an accurate enough model.
 But until then:
-"This will do, model. This will do"
+"This will do, model. This will do.".
 
 </details>
 
@@ -361,7 +361,7 @@ But until then:
 <details open>
 <summary>Show/Hide</summary>
 
-There are some ideas which I believe could improve this project and will try to
+There are some ideas which I believe could improve this project, and will try to
 implement some whenever I come back to it:
 - a more meaningful way to choose the best model; sure, plain "what's best"
 evaluation works, but perhaps have a baseline to compare with, something like
@@ -376,4 +376,3 @@ could use regex
 
 </details>
 
-</details>
