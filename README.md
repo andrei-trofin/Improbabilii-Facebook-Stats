@@ -108,7 +108,7 @@ I felt it necessary to collect some feedback
 
 The first obstacle was to get the data from Facebook. It took some time and
 research to find out that the most reasonable way was to learn how to use their
-graph API and use it. So I did exactly that. Some setps were intuitive, some
+graph API and use it. So I did exactly that. Some steps were intuitive, some
 were not. However, I managed to find 4 endpoints that at the time seemed the most
 interesting: event, feed, tagged and visitor_posts.
 
@@ -273,8 +273,8 @@ def get_all_best_models_from_grid_search(all_models, all_parameters_grids, X_tra
     return pd.DataFrame(best_models_dict)
 ```
 
-All this search ended up finding that a GaussianProcessRegressor on the data set
-containing just the 4 main features presented at the
+All this search ended up finding a GaussianProcessRegressor used on the data set
+containing the 4 main features presented at the
 [feature engineering step](#5-feature-engineering). I used this model to
 make the predictions.
 
@@ -330,8 +330,8 @@ This was a great learning process and I am glad I went through it.
 It was something I needed to do to gain confidence in my ability as a data
 scientist. Working on something you like is always inspiring.
 
-What I liekd best about this project was that I could give insights to my
-friends about our online activity and also have an "end product" to show them.
+What I liked best about this project was that I could give insights to my
+friends about our online activity, and also have an "end product" to show them.
 
 ### 8.1 What did I learn?
 
@@ -375,4 +375,3 @@ for each event when checking if the post correlates to the event; perhaps here I
 could use regex
 
 </details>
-
